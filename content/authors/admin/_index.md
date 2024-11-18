@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Brycen McCann
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Brycen
+last_name: McCann
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Project Manager | Digital Marketer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: FYVE Marketing
+  - url: 
+   
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,13 +48,13 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Marketing
+  - SEO Strategy
+  - Photogrpahy 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Bachelor of Arts
+    institution: The Ohio State University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -144,11 +145,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
+ 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
